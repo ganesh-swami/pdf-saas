@@ -29,7 +29,7 @@ Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 To get started with this project, run
 
 ```bash
-  git clone https://github.com/joschan21/quill.git
+  git clone https://github.com/ganesh-swami/pdf-saas.git
 ```
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
@@ -37,8 +37,7 @@ and copy the .env.example variables into a separate .env file, fill them out & a
 
 ## Acknowledgements
 
-- [Kinde Auth](https://link.joshtriedcoding.com/kinde) for making this project possible
+- [Hire ReactJS Developer](https://avinyaweb.com/services/) for making this project Advance
+- [web development service](https://avinyaweb.com) use this for business purpose
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
